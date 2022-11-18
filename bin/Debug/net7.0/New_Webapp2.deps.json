@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "New_Webapp2/1.0.0": {
+        "runtime": {
+          "New_Webapp2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "New_Webapp2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
